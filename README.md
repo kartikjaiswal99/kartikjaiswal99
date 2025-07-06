@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kartik Jaiswal
-- 👀 I’m interested in Backend, Classical ML, GenAI
-- 🌱 I’m currently learning DL, RAG, LLMs...
+- 👀 I’m interested in Backend, Classical ML, GenAI, DL, LLMs
+- 🌱 I’m currently learning LangChain, RAG...
 - 📫 How to reach me: mail: kartik99jais@gmail.com
 
 <!---
